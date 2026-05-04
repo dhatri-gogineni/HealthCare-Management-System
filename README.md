@@ -1,9 +1,5 @@
 # HealthCareManagement ❤️ 
 
-![](https://img.shields.io/github/languages/count/gowthamrajk/HealthCareManagement)   ![](https://img.shields.io/github/languages/top/gowthamrajk/HealthCareManagement)
-
-### For more such developments, visit my [Portfolio](https://gowthamrajk.github.io)
-
 ##  Features 💬
 
 - It is a **HealthCare Management System** which can facilitate you to check your hospital status, profile information, doctor information, check slots, book doctor appointments, review the appointments, generate and print your respective prescriptions and manage the entire application.
@@ -45,15 +41,6 @@ This mode makes you as a user and you can perform various activities like...
 - view your doctors prescription and print it.
 - Get various details on the user dashboard as Total User, Total doctors, Total slots, Patients.
 
-**[Additional Feature: The user can even print their respective prescriptions]**
-
-# About Project Development 🥅
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
@@ -63,9 +50,6 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests 🚀
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
 ## Running end-to-end tests
 
@@ -104,16 +88,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Database 🥅
 
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
-
-## Development 🔭
-
-![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Open+JDK+14&color=007396&label=)
-
-## Development Tools 📺
-
-![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
-![Spring](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Tool+Suit&color=6DB33F&logo=Spring&logoColor=FFFFFF&label=)
-![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 
 
 # UI overview ❤️ 
